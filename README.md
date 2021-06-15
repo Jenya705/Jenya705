@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Jenya, 705 is square of 26.551836094703507
+My name is Jenya, 705 is a sphenic number and smallest Lucas pseudoprime
+
+And i am java developer
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=jenya705&theme=dark)
 
